@@ -8,16 +8,17 @@ body {
   font-family: 'Comfortaa';
   background-image: url(bg.jpg);
   background-repeat: no-repeat;
-  background-size: 100% 150%;
+  background-size: 100% 100%;
+  
 }
 
 .center-box {
   background-color: white;
   padding-left: 0px;
   padding-top: 15px;
-  width: 0%;
+  width: 90%;
   height: 50vh;
-  margin-left: 5%;
+  margin-left: 2%;
   margin-top: 20vh;
 }
 
