@@ -13,17 +13,16 @@ body {
 
 .center-box {
   background-color: white;
-  padding-left: 20px;
+  padding-left: 0px;
   padding-top: 15px;
-  position: relative;
-  width: 40%;
+  width: 70%;
   height: 50vh;
-  margin-left: 50%;
+  margin-left: 20%;
   margin-top: 20vh;
 }
 
 .header-text {
-  margin-left: 14%;
+  margin-left: 13%;
 }
 
 .bt{
@@ -65,13 +64,13 @@ body {
 }
 
 .b {
-  padding-left: 24%;
-  padding-top: 40%;
+  padding-left: 14%;
+  padding-top: 60%;
 }
 
 .footer {
-  margin-top: 30%;
-  margin-left: 30%;
+  margin-top: 50%;
+  margin-left: 25%;
 }
 
 .btn {
