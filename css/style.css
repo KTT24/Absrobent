@@ -17,8 +17,15 @@ html .depiction {
 
 body {
   font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
-  margin:80px 0 35px
+  margin:80px 0 35px;
+  background-color: #21D4FD;
+  background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 50%);
+
 }
+
+
+.btn-grad {background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%)}
+.btn-grad:hover { background-position: right center; }
 
 .cydia body {
   margin-top:35px
