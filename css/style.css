@@ -8,7 +8,7 @@ body {
   font-family: 'Comfortaa';
   background-image: url(bg.jpg);
   background-repeat: no-repeat;
-  background-size: 100% 240%;
+  background-size: 100% 500%;
   
 }
 
@@ -19,7 +19,7 @@ body {
   width: 90%;
   height: 50vh;
   margin-left: 2%;
-  margin-top: 20vh;
+  margin-top: 10vh;
 }
 
 .header-text {
